@@ -21,7 +21,7 @@ Sample dataset and character lists
 
 Pre-trained model files
 
-📁 Project Structure
+Project Structure
 Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow/
 │
 ├── data/                       # Character lists, corpus, sample test images
@@ -156,8 +156,9 @@ Improve accuracy on noisy scanned documents
 Add multilingual handwriting recognition
 
 Build a full OCR pipeline with page layout detection
-Author
 
+
+Author
 Pragya Mundra
 
 Feel free to open issues, suggest improvements, or submit pull requests.
